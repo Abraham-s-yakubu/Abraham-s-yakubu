@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abraham-s-yakubu
-- 👀 I’m interested in ... Node.js
-- 🌱 I’m currently learning ... JavaScript 
+- 👀 I’m interested in ... backend
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Anyone 
 - 📫 How to reach me ... yakubu.s.abraham@gmail.com
 
